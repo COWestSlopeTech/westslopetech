@@ -1,0 +1,47 @@
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Projects" %}
+      <div class='spacing'></div>
+      <p>
+        Take a look, take some action, teach, learn.  Check out some of the projects Roarking Fork Technologists are working
+        on.
+      </p>
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  
+  <div class='row'>
+    {% for project in site.data.projects %}
+    {% if forloop.index > 3 %}
+    {% break %}
+    {% endif %}
+    
+    <div class='large-4 medium-4 columns'>
+      <div class='mod modBlogPost'>
+        <a href="{{project.url}}"><!-- <img alt="" width=340 height=206 src="{{site.url}}/{{project.image}}" /> --></a>
+        <div class='content'>
+          <p class='date'>{{ project.category }}</p>
+          <h4><a href="{{project.url}}">{{project.title}}</a></h4>
+          <p>{{project.description}}</p>
+          <!-- -->
+        </div>
+      </div>
+    </div>
+    
+    {% endfor %}
+  
+  </div>
+  <!--
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p class='centered-text'>
+        <a class='button' href='blog.html'>See more posts</a>
+      </p>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+  -->
+
+</div>
