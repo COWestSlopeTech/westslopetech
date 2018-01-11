@@ -51,10 +51,10 @@ You can start here:
 
 The github issuetracker for this project is current. Please check there for info on what issues may be open.
 
-## Release Cycles
+### Release Cycles
 For now we are not going to have formal releases for the site. We will build toward a version 1 and from that point can consider whether we want to have a formal release strategy or just push changes as needed.
 
-## Development Contribution Strategy
+### Development Contribution Strategy
 * Each developer must create a new branch in which they will do their changes. 
 * To commit your work perform a pull request against the master branch.
 When the pull request is reviewed and accepted it will be qued up and folded into the gh-pages branch for release. 
