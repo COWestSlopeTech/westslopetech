@@ -60,5 +60,4 @@ For now we are not going to have formal releases for the site. We will build tow
 When the pull request is reviewed and accepted it will be qued up and folded into the gh-pages branch for release. 
 
 ## License
-
-Until this is defined, all rights retained by the Roaring Fork Technology group. This code may not be used without permission from the Roaring Fork Technology Group and its leader Justin.
+MIT- See LICENCE file in the repository.
