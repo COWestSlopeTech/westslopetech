@@ -1,13 +1,13 @@
-- avatar: images/@stock/member-1.jpg
-  name: Mark Wayne
-  position: Founder
+- avatar: images/justin-lewis-profile-pic.jpg
+  name: Justin Lewis
+  position: Software Engineer & VP of Product
   socials:
-    - link: http://twitter.com
+    - link: https://twitter.com/jmapping
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
+    - link: https://www.linkedin.com/in/justin-lewis-colorado/
+      icon: linkedin
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    Software Engineer and VP of Product with a background in building solutions to solve problems around data and visualization.
 - avatar: images/@stock/member-2.jpg
   name: Kate Holms
   position: Creative Director
