@@ -10,9 +10,12 @@
     <div id='main' role='main'>
       {{ content }}
     </div>
-
     {% include footer.html %}
-    {% include analytics.html %}
-  </body>
+
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
+  
+</body>
 
 </html>
