@@ -1,0 +1,46 @@
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Upcoming Events" %}
+      <div class='spacing'></div>
+      <p>
+        Join us for these events if you can. <b>Block Chain!</b>
+      </p>
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  
+  <div class='row'>
+    {% for event in site.data.events %}
+    {% if forloop.index > 3 %}
+    {% break %}
+    {% endif %}
+    
+    <div class='large-4 medium-4 columns'>
+      <div class='mod modBlogPost'>
+        <a href="{{event.url}}"><img alt="" src="{{site.url}}/{{event.image}}" /></a>
+        <div class='content'>
+          <p class='date'>{{event.date | date: "%B %d, %Y" }} {{event.start}} - {{event.end}}</p>
+          <h4><a href="#">{{event.title}}</a></h4>
+          <p>{{event.description}}</p>
+          <!-- -->
+        </div>
+      </div>
+    </div>
+    
+    {% endfor %}
+  
+  </div>
+  <!--
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p class='centered-text'>
+        <a class='button' href='blog.html'>See more posts</a>
+      </p>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+  -->
+
+</div>
