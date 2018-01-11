@@ -1436,6 +1436,17 @@ form input.error, form textarea.error {
 .modBlogPost h4 a:hover {
   color: #f9ce06;
 }
+.modBlogPost .type-title-wrapper{
+  height:100%;
+  position:absolute;
+  right:0;
+  left:0;
+}
+.modBlogPost .type-title-wrapper .type-title{
+  color:white;
+  position:relative;
+  top:100px;
+}
 .modBlogPost .date {
   font-size: 0.78571rem;
   text-transform: uppercase;

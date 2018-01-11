@@ -1,17 +1,29 @@
 - title: Roaring Fork Technologists Website
+  type: Project Collaboration
   date: 2018-01-10
-  start: 4:30 PM
-  end: 8:30 PM
-  description: Collaborate and publish version one of the website
-  image: images/blockchain.jpg
-- title: Block Chain Presentation by Jeremy
+  start: 4:00 PM
+  end: 8:00 PM
+  image: images/team-work.jpg
+  url: https://github.com/RoaringForkTech/roaringforktech
+  description: |
+    Collaborate and publish version one of the website. [Github](https://github.com/RoaringForkTech/roaringforktech/)
+
+- title: Blockchain with Jeremy Cerise
   date: 2018-01-17
-  start: 5:30 PM
-  end: 8:30PM
+  start: 6:00 PM
+  end: 8:00 PM
   image: images/blockchain.jpg
-  description: Roaring Fork Crypto presents
-- title: Roaring Fork Technologists Meetup
+  url: #
+  description: |
+    Presentation of Block Chain by Jeremy Cerise. Hosted by
+    [Carbondale Rotary](http://www.rotarycarbondale.org/) and [GlenX](https://glenx.space/).
+    [Map](https://tinyurl.com/ycbzhhl7)
+
+- title: Roaring Fork Technologists
+  type: Project Collaboration
   date: 2018-02-13
   start: 5:30 PM
-  image: images/blockchain.jpg
-  description: Hosted by Justin Lewis
+  end: 8:00 PM
+  image: images/team-work.jpg
+  url: #
+  description: Hosted by [GlenX](https://glenx.space/)
