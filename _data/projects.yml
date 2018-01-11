@@ -1,0 +1,15 @@
+- title: Roaring Fork Technologists Website
+  url: https://github.com/RoaringForkTech/roaringforktech/
+  description: Our website is built on Jekyll and always in need of love.  Fork it and send us a pull request
+  image: images/githubcat.png
+  category: Web Design, Jekyll
+- title: Go Block Chain
+  description: Jeremy's Go based block chain project
+  url: https://github.com/jcerise/go-blockchain
+  image: images/blockchain.jpg
+  category: Block Chain, Go
+- title: GPS Tracker
+  description: Dustin's Arduino GPS project
+  url: https://github.com/dustinb/gpstag
+  image: images/blockchain.jpg
+  category: Arduino, GPS
