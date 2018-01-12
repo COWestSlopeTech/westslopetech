@@ -4,13 +4,60 @@ title: About
 section_id: about
 skills:
   - title: Web Design
-    percentage: 84
+    percentage: 20
   - title: Web Development
-    percentage: 95
-  - title: Site Management
+    percentage: 90
+  - title: Mobile Development
+    percentage: 40
+  - title: Cloud Development
+    percentage: 40
+  - title: Data Science
+    percentage: 20
+  - title: Machine Learning
+    percentage: 10
+  - title: BlockChain Development
+    percentage: 20
+  - title: Database Development
+    percentage: 50
+  - title: General Programming
+    percentage: 90
+  - title: Graphic Arts
+    percentage: 20
+  - title: Business Development
+    percentage: 30
+  - title: Branding & Marketing
+    percentage: 30
+  - title: Content Development
+    percentage: 20
+specific-skills:
+  - title: HTML/CSS
+    percentage: 80
+  - title: JavaScript
+    percentage: 90
+  - title: Python
+    percentage: 50
+  - title: Ruby
+    percentage: 30
+  - title: Java
+    percentage: 40
+  - title: .NET
+    percentage: 50
+  - title: PHP
+    percentage: 20
+  - title: Go
+    percentage: 20
+  - title: SQL
+    percentage: 60
+  - title: PostgreSQL
+    percentage: 50
+  - title: SQL Server
+    percentage: 50
+  - title: MySQL
+    percentage: 30
+  - title: WordPress
+    percentage: 50
+  - title: Jekyll
     percentage: 70
-  - title: Branding
-    percentage: 61
 testimonials:
   - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
     author: David White, Designer at Huglab
@@ -20,10 +67,10 @@ testimonials:
     author: David White, Designer at Huglab
 ---
 
-<div class='full parallax' style='background-image: url(images/@stock/about-us.jpg); color: #fff;'>
+<div class='full parallax' style='background-image: url(images/skiing-chrisb-darker.jpg); color: #fff;'>
   <div class='row'>
     <div class='twelve columns'>
-      {% include section-header.html title="About us" color="#fff" tagline="Know something about our team" class="big" %}
+      {% include section-header.html title="About us" color="#fff" tagline="Helping to build job opportunities for current and future generations" class="big" %}
     </div>
   </div>
   <div class='four spacing'></div>
@@ -31,13 +78,24 @@ testimonials:
 
 <div class='full'>
   <div class='row'>
+    <div class='medium-12 columns'>
+      <h3>Our Story</h3>
+      <p>Since early 2017 the Roaring Fork Technologists have been working to bring together people across the Roaring Fork region who share a professional and/or personal interest in technology. Enthusiasm around the group grew significantly with the opening of the GlenX coworking space which provided a physical place to meet in a casual yet professional setting. With the on-going efforts of the Aspen Entrepeneurs and GlenX to build local entrepeneurship across the region the Roaring Fork Technologists are finding a natural relationship as a technical support group for local entrepeneurs.</p>
+      <p>By teaming up with local partners like GlenX the Roaring Fork Technologists have ambitious goals to support the sustainability and growth of the local economy by ensuring that organizations have access to diverse technical knowledge and skills. To ensure future generations a place in the Roaring Fork region the Technologists are also seeking to partner with local schools to provide kids and young adults the resources they need to learn and tackle projects that help improve their professional opportunities.</p>
+      <p>To learn from others and share resources the Roaring Fork Technologists are working on establishing relationships with other rural communities who have similar challenges and goals. Many of which also hinge around coworking spaces and incubator style entrepeneurial support.</p>
+    </div>
+  </div>
+</div>
+
+<div class='full'>
+  <div class='row'>
     <div class='medium-6 columns'>
-      <h3>Our history</h3>
-      <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
+      <h3>We have diverse professional experience</h3>
+      <p>As a group of professionals each Technologist brings a different set of skills and experience to the Roaring Fork. Some of us work remotely and some for local companies which results in people sharing expertise learned in teams ranging from small startups to local established companies to large international companies. This collective knowledge enables a small but strong community that is capable of working on some of the most cutting edge technologies that exist today. </p>
+      <p>By embrasing the Give First Mantra the Roaring Fork Technologists are harnessing their enthusiasm and diversity to try and have a lasting impact on the community that makes them feel so at home. The Technologists believe that if they give to their community that community will grow in a more healthy way and hopefully leave the Roaring Fork a better place for future generations.</p>
     </div>
     <div class='medium-6 columns'>
-      <h3>Our skills</h3>
+      <h3>Our general skills</h3>
       <div class='mod modBarGraph'>
         <ul class='bars'>
           {% for skill in page.skills %}
@@ -52,11 +110,49 @@ testimonials:
         </ul>
       </div>
     </div>
+
   </div>
 </div>
 
+<div class='full'>
+  <div class='row'>
+    <div class='medium-6 columns'>
+      <h3>Detailed Skills</h3>
+      <div class='mod modBarGraph'>
+        <ul class='bars'>
+          {% for sskill in page.specific-skills %}
+            <li>
+              <h4 style=''>
+                {{sskill.title}}
+                <strong>{{sskill.percentage}}%</strong>
+              </h4>
+              <p class='highlighted' data-percent='{{sskill.percentage}}'></p>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class='medium-6 columns'>
+      <h3>We have diverse technical skills</h3>
+      <p>At a fundamental level the Technologists are passionate about their craft. Many have been practicing their craft long enough to be experts while others are getting opportunity to grow by learning from other Technologists. They continuously grow their skill by actively educating others and working on collaborative projects to refine the low level technical skills needed to thrive in a changing world. </p>
+      <p>By collaborating on technology projects the Technologists also learn how to better work as a team. The hope is that through these partnerships real technology solutions will be developed to serve real world needs around living and working in rural communities like the Roaring Fork.</p>
+    </div>
+  </div>
+</div>
 
 <div class='full'>
+  <div class='four spacing'></div>
+  <div class='row'>
+    <div class='medium-12 columns'>
+      <h3>The path ahead is never certain but we will push on with the intent to improve the world around us.</h3>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+  <div class='four spacing'></div>
+</div>
+
+<!-- <div class='full'>
   <div class='row'>
     {% for member in site.data.members %}
       <div class='small-6 medium-3 large-3 columns'>
@@ -85,10 +181,10 @@ testimonials:
       </div>
     {% endfor %}
   </div>
-</div>
+</div> -->
 
 
-<div class='full parallax' style='background: #f5f5f5'>
+<!-- <div class='full parallax' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
       <p class='centered-text'>
@@ -122,6 +218,8 @@ testimonials:
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
+{% comment %}
 {% include our-customers.html %}
+{% endcomment %}
