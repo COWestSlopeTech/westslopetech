@@ -18,6 +18,6 @@
 - name: Contact
   path: contact.html
   section_id: contact
-- name: Blog
-  path: blog/
-  section_id: blog
+# - name: Blog
+#   path: blog/
+#   section_id: blog
