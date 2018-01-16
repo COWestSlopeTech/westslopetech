@@ -4,7 +4,7 @@
   start: 4:00 PM
   end: 8:00 PM
   image: images/team-work.jpg
-  url: https://github.com/RoaringForkTech/roaringforktech
+  url: https://www.facebook.com/events/504276263288053/
   description: |
     Collaborate and publish version one of the website. [Github](https://github.com/RoaringForkTech/roaringforktech/)
 
@@ -13,17 +13,18 @@
   start: 6:00 PM
   end: 8:00 PM
   image: images/blockchain.jpg
-  url: #
+  url: https://www.facebook.com/events/159080268058590/
   description: |
     Presentation of Block Chain by Jeremy Cerise. Hosted by
     [Carbondale Rotary](http://www.rotarycarbondale.org/) and [GlenX](https://glenx.space/).
     [Map](https://tinyurl.com/ycbzhhl7)
 
-- title: Roaring Fork Technologists
+- title: February Collaborative Meetup 2018 - Jekyll Part 2
   type: Project Collaboration
   date: 2018-02-13
   start: 5:30 PM
   end: 8:00 PM
   image: images/team-work.jpg
-  url: #
-  description: Hosted by [GlenX](https://glenx.space/)
+  url: https://www.facebook.com/events/1609027935852009/
+  description: Collaborate on finishing the RoaringForkTechnologists website and round table style education on what we've learned from this project.
+    Hosted by [GlenX](https://glenx.space/)
