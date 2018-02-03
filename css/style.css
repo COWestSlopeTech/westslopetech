@@ -1437,7 +1437,7 @@ form input.error, form textarea.error {
   color: #f9ce06;
 }
 .modBlogPost .type-title-wrapper{
-  height:100%;
+  /*height:100%; Allow links in Post description */
   position:absolute;
   right:0;
   left:0;
