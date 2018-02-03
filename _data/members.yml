@@ -30,11 +30,11 @@
       icon: facebook
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/squirl_eating.jpg
-  name: You?
-  position: Go Getter
-  socials:
-    - link: http://twitter.com
-      icon: twitter
+- avatar: images/tracy-mccurdy-profile-pic.jpg
+  name: Tracy McCurdy
+  position: Technical Documentation Specialist
+  # socials:
+  #   - link: http://twitter.com
+  #     icon: twitter
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.

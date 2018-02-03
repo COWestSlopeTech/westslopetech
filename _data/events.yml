@@ -1,15 +1,5 @@
-- title: Roaring Fork Technologists Website
-  type: Project Collaboration
-  date: 2018-01-10
-  start: 4:00 PM
-  end: 8:00 PM
-  image: images/team-work.jpg
-  url: https://www.facebook.com/events/504276263288053/
-  description: |
-    Collaborate and publish version one of the website. [Github](https://github.com/RoaringForkTech/roaringforktech/)
-
 - title: Blockchain with Jeremy Cerise
-  date: 2018-01-17
+  date: 2018-02-07
   start: 6:00 PM
   end: 8:00 PM
   image: images/blockchain.jpg
@@ -19,12 +9,66 @@
     [Carbondale Rotary](http://www.rotarycarbondale.org/) and [GlenX](https://glenx.space/).
     [Map](https://tinyurl.com/ycbzhhl7)
 
-- title: February Collaborative Meetup 2018 - Jekyll Part 2
+- title: February Collaborative Meetup 2018 - MountainCareers.com Guest Speaker & Jekyll Part 2
   type: Project Collaboration
   date: 2018-02-13
   start: 5:30 PM
-  end: 8:00 PM
+  end: 7:30 PM
   image: images/team-work.jpg
   url: https://www.facebook.com/events/1609027935852009/
-  description: Collaborate on finishing the RoaringForkTechnologists website and round table style education on what we've learned from this project.
-    Hosted by [GlenX](https://glenx.space/)
+  description: The [MountainCareers](https://MountainCareers.com/) founder will discuss some dynamics of jobs in mountain communities. Afterward we will collaborate on finishing the RoaringForkTechnologists website and round table style education on what we've learned from this project.
+    Hosted by [GlenX](https://glenx.space/).
+
+- title: March Collaborative Meetup 2018 - TBD
+  type: Project Collaboration
+  date: 2018-03-13
+  start: 5:30 PM
+  end: 7:30 PM
+  image: images/team-work.jpg
+  url: #
+  description: Planning in progress...
+
+- title: April Collaborative Meetup 2018 - TBD
+  type: Project Collaboration
+  date: 2018-04-10
+  start: 5:30 PM
+  end: 7:30 PM
+  image: images/team-work.jpg
+  url: #
+  description: Planning in progress...
+
+- title: May Collaborative Meetup 2018 - TBD
+  type: Project Collaboration
+  date: 2018-05-08
+  start: 5:30 PM
+  end: 7:30 PM
+  image: images/team-work.jpg
+  url: #
+  description: Planning in progress...
+
+- title: June Collaborative Meetup 2018 - TBD
+  type: Project Collaboration
+  date: 2018-06-12
+  start: 5:30 PM
+  end: 7:30 PM
+  image: images/team-work.jpg
+  url: #
+  description: Planning in progress...
+
+- title: July Collaborative Meetup 2018 - TBD
+  type: Project Collaboration
+  date: 2018-07-10
+  start: 5:30 PM
+  end: 7:30 PM
+  image: images/team-work.jpg
+  url: #
+  description: Planning in progress...
+
+- title: August Collaborative Meetup 2018 - TBD
+  type: Project Collaboration
+  date: 2018-08-14
+  start: 5:30 PM
+  end: 7:30 PM
+  image: images/team-work.jpg
+  url: #
+  description: Planning in progress...
