@@ -29,6 +29,8 @@
         <div class='content'>
           <p xclass='date'>{{event.date | date: "%A, %b %d" }} {{event.start}} - {{event.end}}</p>
           <a href="{{event.locationLink}}" target="_blank"><p>{{event.location}}</p></a>
+          <!-- <a target="_blank" href="https://calendar.google.com/calendar/r/eventedit?text={{event.title}}&dates={{event.date | replace:'-',''}}T233000Z/{{event.date | replace:'-',''}}T250000Z&details={{event.description}}&location={{event.location}}&ctz=America/Denver">Add to Google Calendar</a> -->
+
           <h4><a href="{{event.url}}">{{event.title}}</a></h4>
           <p>{{event.description | markdownify}}</p>
           <!-- -->
