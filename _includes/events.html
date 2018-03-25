@@ -27,7 +27,8 @@
           <img alt="" src="{{site.url}}/{{event.image}}"></img>
         </a>
         <div class='content'>
-          <p xclass='date'>{{event.date | date: "%A, %b %d" }} {{event.start}}</p>
+          <p xclass='date'>{{event.date | date: "%A, %b %d" }} {{event.start}} - {{event.end}}</p>
+          <a href="{{event.locationLink}}" target="_blank"><p>{{event.location}}</p></a>
           <h4><a href="{{event.url}}">{{event.title}}</a></h4>
           <p>{{event.description | markdownify}}</p>
           <!-- -->

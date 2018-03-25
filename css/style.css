@@ -1470,6 +1470,9 @@ form input.error, form textarea.error {
   transition-duration: 0.5s;
   opacity: 0.5;
 }
+.modBlogPost a:hover .type-title-wrapper h4 {
+  color: black;
+}
 .modBlogPost .slick-slider {
   margin-bottom: 0;
 }
