@@ -1,7 +1,7 @@
 <div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Upcoming Events" %}
+      {% include section-header.html title="Past Events" %}
       <!--
       <div class='spacing'></div>
       <p>
@@ -12,34 +12,27 @@
     </div>
   </div>
 
-    {% assign loopindex = 1 %}
+  <!-- <div class='row'> -->
+
     {% for event in site.data.events %}
 
-      {% capture modulo %}{{ loopindex | modulo: 3 }}{% endcapture %}
+      {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
 
       {% if modulo == '1' %}
         <div class='row'>
       {% endif %}
 
-      {% comment %}
-        {% if forloop.index > 3 %}
-        {% break %}
-        {% endif %}
-      {% endcomment %}
-
       {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
       {% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}
 
-      {% if posttime > nowunix %}
-        {% assign loopindex = loopindex | plus: 1 %}
-
+      {% if posttime < nowunix %}
         <div class='large-4 medium-4 columns'>
           <div class='mod modBlogPost'>
             <a href="{{event.url}}">
-              <div class="type-title-wrapper">
+              <!-- <div class="type-title-wrapper">
                 <h4 class="type-title text-center" >{{event.type}}</h4>
               </div>
-              <img alt="" src="{{site.url}}/{{event.image}}"></img>
+              <img alt="" src="{{site.url}}/{{event.image}}"></img> -->
             </a>
             <div class='content'>
               <p xclass='date'>{{event.date | date: "%A, %b %d" }} {{event.start}} - {{event.end}}</p>
@@ -47,7 +40,7 @@
               <!-- <a target="_blank" href="https://calendar.google.com/calendar/r/eventedit?text={{event.title}}&dates={{event.date | replace:'-',''}}T233000Z/{{event.date | replace:'-',''}}T250000Z&details={{event.description}}&location={{event.location}}&ctz=America/Denver">Add to Google Calendar</a> -->
 
               <h4><a href="{{event.url}}">{{event.title}}</a></h4>
-              <p>{{event.description | markdownify}}</p>
+              <!-- <p>{{event.description | markdownify}}</p> -->
               <!-- -->
             </div>
           </div>
@@ -55,8 +48,8 @@
 
       {% endif %}
 
-      {% if modulo == '0' or posttime <= nowunix %}
-        </div>
+      {% if modulo == '0' or forloop.last %}
+      </div>
       {% endif %}
 
     {% endfor %}
