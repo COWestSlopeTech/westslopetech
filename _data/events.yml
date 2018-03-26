@@ -1,30 +1,30 @@
-# - title: Roaring Fork Technologists Website
-#   type: Project Collaboration
-#   date: 2018-01-10
-#   start: 4:00 PM
-#   end: 8:00 PM
-#   image: images/team-work.jpg
-#   url: https://github.com/RoaringForkTech/roaringforktech
-#   description: |
-#     Collaborate and publish version one of the website. [Github](https://github.com/RoaringForkTech/roaringforktech/)
-#
-# - title: Blockchain with Jeremy Cerise
-#   date: 2018-01-17
-#   start: 6:00 PM
-#   end: 8:00 PM
-#   image: images/blockchain.jpg
-#   url: #
-#   description: |
-#     Presentation of Block Chain by Jeremy Cerise. Hosted by
-#     [Carbondale Rotary](http://www.rotarycarbondale.org/) and [GlenX](https://glenx.space/).
-#     [Map](https://tinyurl.com/ycbzhhl7)
+- title: Roaring Fork Technologists Website
+  type: Project Collaboration
+  date: 2018-01-10
+  start: 4:00 PM
+  end: 8:00 PM
+  image: images/event-headers/team-work.jpg
+  url: https://github.com/RoaringForkTech/roaringforktech
+  description: |
+    Collaborate and publish version one of the website. [Github](https://github.com/RoaringForkTech/roaringforktech/)
+
+- title: Blockchain with Jeremy Cerise
+  date: 2018-01-17
+  start: 6:00 PM
+  end: 8:00 PM
+  image: images/event-headers/blockchain.jpg
+  url: #
+  description: |
+    Presentation of Block Chain by Jeremy Cerise. Hosted by
+    [Carbondale Rotary](http://www.rotarycarbondale.org/) and [GlenX](https://glenx.space/).
+    [Map](https://tinyurl.com/ycbzhhl7)
 
 - title: GlenX High School Career Expo
   type: Mentorship
   date: 2018-03-06
   start: 8:00 AM
   end: 1:00 PM
-  image: images/team-work.jpg
+  image: images/event-headers/team-work.jpg
   url: http://glenxcareerexpo.com/
   description: The Roaring Fork Technologists will speak with around 1600 high school students who are looking to learn more about shaping their career paths.
 
@@ -33,25 +33,40 @@
   date: 2018-03-13
   start: 5:30 PM
   end: 7:30 PM
-  image: images/admission-2974645_1280.jpg
+  image: images/event-headers/admission-2974645_1280.jpg
   url: https://www.facebook.com/events/164470120871985/
   description: Marketing is probably one of the fastest changing industries out there and most of us need to know something about it in order to get our products, services, and ideas out there. This month we have local marketing professional Eric Whiting coming to talk about the current state of marketing and some of the tools out there to help be more successful. There will be a special emphasis on the digital aspects of marketing which often are the most perplexing. <br><br> Eric currently works for Backbone Media and is co-founder of Iron Will Outfitters. He's also worked for larger organizations and so will come with a breadth of experience that will likely relate to many of us.
 
-- title: April Collaborative Meetup 2018 - TBD
+- title: April Collaborative Meetup 2018 - Getting Started Developing On The Ethereum Blockchain
   type: Project Collaboration
   date: 2018-04-10
   start: 5:30 PM
-  end: 7:30 PM
-  image: images/team-work.jpg
+  end: 7:00 PM
+  location: GlenX - 520 S 3rd St, Carbondale, Colorado 81623
+  locationLink: https://goo.gl/maps/sBSt6p43V8z
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/181581769298755/
+  description: There have been a couple talks on BlockChain technology around the Roaring Fork recently and the latest by Jeremy Cerise dove a little bit deeper into how a basic BlockChain works. This meetup is going to be a technical introduction to the Etherium BlockChain environment targeted at implementing an Etherium project as a developer. There will probably be some collaborative coding but in general we are going to introduce the Ethereum ecosystem and setup a 'hello world' initial app.<br><br>This meetup is targeting the skill building goals of the Roaring Fork Technologists where we all work together to help learn and/or grow relevant skills that help us in our careers.
+
+- title: Women In Technology - 3 Visiting Colorado Professionals
+  type: Guest Speakers
+  date: 2018-04-27
+  start: 5:30 PM
+  end: 7:00 PM
+  location: GlenX - 520 S 3rd St, Carbondale, Colorado 81623
+  locationLink: https://goo.gl/maps/sBSt6p43V8z
+  image: images/event-headers/april2018_women_in_tech.png
   url: #
-  description: Planning in progress...
+  description: The technology industry touches many aspects of our personal and professional lives that go well beyond social media. There are many technology professionals working to help public organizations better support, engage, and plan for the citizens they represent. This requires a diversity of skills and backgrounds that collectively seek to build meaningful solutions for the greater good. <br><br> At this event we have three special guests that collectively cover a broad spectrum of technical skills in a variety of disciplines. Ashley Summers, Shilo Rohlman, and Andrea Santoro will talk about there perspective as professional women in their careers where they have worked as urban planners, software engineers, GIS professionals, project managers, and IT managers for both public and private organizations. A central theme to their collective experience will be how they all supported urban planning efforts while working for different organizations in the Denver/Boulder Front Range.  Their efforts have touched communities large and small. <br><br> <b>Ashley Summers</b> - Ashley Summers is the Information Systems Manager at the Denver Regional Council of Governments (DRCOG) where she leads a hybrid team of GIS professionals and application developers. She holds a Masters degree from Texas State University in Geographic Information Science and a Bachelor of Arts degree from the University of Texas at Austin in Geography. She is a certified Project Management Professional (PMP) and currently teaches GIS Project Management at the University of Colorado. Her current role with the DRCOG is heavily involved in supporting decision makers around the Colorado Front Range with digital tools that address challenges with planning, transportation modeling, land use modeling, and more. She enjoys hiking, yoga, and world travel. <br><br> <b>Shilo Rohlman</b> - Bio coming soon... <br><br> <b>Andrea Santoro</b> - Bio coming soon...
 
 - title: May Collaborative Meetup 2018 - TBD
   type: Project Collaboration
   date: 2018-05-08
   start: 5:30 PM
   end: 7:30 PM
-  image: images/team-work.jpg
+  location: GlenX - 520 S 3rd St, Carbondale, Colorado 81623
+  locationLink: https://goo.gl/maps/sBSt6p43V8z
+  image: images/event-headers/team-work.jpg
   url: #
   description: Planning in progress...
 
@@ -60,7 +75,9 @@
   date: 2018-06-12
   start: 5:30 PM
   end: 7:30 PM
-  image: images/team-work.jpg
+  location: GlenX - 520 S 3rd St, Carbondale, Colorado 81623
+  locationLink: https://goo.gl/maps/sBSt6p43V8z
+  image: images/event-headers/team-work.jpg
   url: #
   description: Planning in progress...
 
@@ -69,7 +86,9 @@
   date: 2018-07-10
   start: 5:30 PM
   end: 7:30 PM
-  image: images/team-work.jpg
+  location: GlenX - 520 S 3rd St, Carbondale, Colorado 81623
+  locationLink: https://goo.gl/maps/sBSt6p43V8z
+  image: images/event-headers/team-work.jpg
   url: #
   description: Planning in progress...
 
@@ -78,6 +97,8 @@
   date: 2018-08-14
   start: 5:30 PM
   end: 7:30 PM
-  image: images/team-work.jpg
+  location: GlenX - 520 S 3rd St, Carbondale, Colorado 81623
+  locationLink: https://goo.gl/maps/sBSt6p43V8z
+  image: images/event-headers/team-work.jpg
   url: #
   description: Planning in progress...
