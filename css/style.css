@@ -1427,6 +1427,12 @@ form input.error, form textarea.error {
   margin-bottom: 40px;
   background: #fff;
 }
+.modBlogPost > i {
+  margin: 10px;
+  position: absolute;
+  font-size: 21px;
+  color: #2dd22d;
+}
 .modBlogPost .content {
   padding: 30px 20px;
 }

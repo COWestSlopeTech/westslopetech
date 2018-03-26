@@ -35,6 +35,9 @@
 
         <div class='large-4 medium-4 columns'>
           <div class='mod modBlogPost'>
+            {% if event.type == 'Speaker' %}
+              <i class="fa fa-microphone"></i>
+            {% endif %}
             <a href="{{event.url}}">
               <div class="type-title-wrapper">
                 <h4 class="type-title text-center" >{{event.type}}</h4>

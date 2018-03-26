@@ -1,7 +1,7 @@
 <div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Past Events" %}
+      {% include section-header.html title="2018 Past Events" %}
       <!--
       <div class='spacing'></div>
       <p>
@@ -28,6 +28,9 @@
       {% if posttime < nowunix %}
         <div class='large-4 medium-4 columns'>
           <div class='mod modBlogPost'>
+            {% if event.type == 'Speaker' %}
+              <i class="fa fa-microphone"></i>
+            {% endif %}
             <a href="{{event.url}}">
               <!-- <div class="type-title-wrapper">
                 <h4 class="type-title text-center" >{{event.type}}</h4>
