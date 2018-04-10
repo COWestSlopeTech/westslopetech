@@ -656,6 +656,7 @@ hr {
   padding: 80px 0 0;
   background-size: cover;
   background-position: 50% 50%;
+  background: white;
 }
 .full.no-padding {
   padding: 0;
