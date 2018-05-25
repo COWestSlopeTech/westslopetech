@@ -21,3 +21,6 @@
 # - name: Blog
 #   path: blog/
 #   section_id: blog
+- name: Local jobs
+  path: localjobs.html
+  section_id: local_jobs
