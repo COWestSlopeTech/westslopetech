@@ -69,7 +69,7 @@
   locationLink: https://goo.gl/maps/sBSt6p43V8z
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/415584178869379/
-  description: Planning in progress...
+  description: At the April regular meetup we learned some of the basics of the Etherium ecosystem and worked through an example putting coins in a smart contract and then allowing the transfer of those coins to an external account. This month we'll build on this by building out a super simple testing framework and user interface using React/Web3/Ganache. <br><br>This will be fun and collaborative. You do not need to have experience with Ethereum, Blockchain technology or coding at all. This is an opportunity to get your hands dirty with code if you want or just see how these new technologies work under the hood.
 
 - title: July Collaborative Meetup 2018 - TBD
   type: Project Collaboration
