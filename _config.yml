@@ -1,6 +1,6 @@
 # Site settings
 title: Roaring Fork Technologists
-email: your-email@domain.com
+email: roaringforktech@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Roaring Fork Technologists are committed to fostering technological solutions within the community for the purpose of technical business education, economic stimulus, and securing a lifestyle we celebrate for years to come.
 baseurl: "" # the subpath of your site, e.g. /blog/
