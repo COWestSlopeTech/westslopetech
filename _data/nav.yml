@@ -24,3 +24,7 @@
 - name: Local jobs
   path: localjobs.html
   section_id: local_jobs
+
+- name: Calendar
+  path: calendar.html
+  section_id: calendar
