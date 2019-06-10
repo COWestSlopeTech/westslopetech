@@ -662,6 +662,12 @@ hr {
   padding: 0;
 }
 
+.cow {
+  background-size: 100%;
+  background-position: center bottom;
+  background-attachment: fixed;
+}
+
 .parallax {
   background-attachment: fixed;
 }
