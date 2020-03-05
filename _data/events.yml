@@ -147,7 +147,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/374308519794381/
   description: Intro to programming with Python
-  
+
 - title: Intro to programming with Python Part 2
   type: Education
   date: 2019-02-12
@@ -158,7 +158,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/403112123588641/
   description: Intro to programming with Python Part 2
-  
+
 - title: Intro to programming with Python Part 3
   type: Education
   date: 2019-03-12
@@ -191,7 +191,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/285105732422438/
   description: Building an opensource app for the community by the community.
-  
+
 - title: Project Kronos
   type: Project Collaboration
   date: 2019-06-11
@@ -213,7 +213,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/1358587027623273/
   description: Building an opensource app for the community by the community.
-  
+
 - title: Project Kronos
   type: Project Collaboration
   date: 2019-08-13
@@ -224,7 +224,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/367706397253370/
   description: Building an opensource app for the community by the community.
-  
+
 - title: Project Kronos
   type: Project Collaboration
   date: 2019-09-10
@@ -235,7 +235,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/819776851772195/
   description: Building an opensource app for the community by the community.
-  
+
 - title: Project Kronos
   type: Project Collaboration
   date: 2019-08-08
@@ -246,7 +246,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/657773358044598/
   description: Building an opensource app for the community by the community.
-  
+
 - title: Project Kronos
   type: Project Collaboration
   date: 2019-11-12
@@ -257,7 +257,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/410479339891319/
   description: Building an opensource app for the community by the community.
-  
+
 - title: Holida Party!
   type: Project Collaboration
   date: 2019-05-14
@@ -268,7 +268,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/495574464499870/
   description: Building an opensource app for the community by the community.
-  
+
 - title: Project Kronos
   type: Project Collaboration
   date: 2019-01-14
@@ -279,7 +279,7 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/581707015740264/
   description: Building an opensource app for the community by the community.
-  
+
 - title: All About Typescript by Ryan Grow
   type: Speaker
   date: 2019-03-10
@@ -290,5 +290,3 @@
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/643309303094206/
   description: Learn all about what it is and why it's useful. 
-  
-  
