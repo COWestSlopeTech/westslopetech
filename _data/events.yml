@@ -260,7 +260,7 @@
 
 - title: Holida Party!
   type: Project Collaboration
-  date: 2019-05-14
+  date: 2019-12-14
   start: 5:30 PM
   end: 7:30 PM
   location: Coventure
@@ -271,7 +271,7 @@
 
 - title: Project Kronos
   type: Project Collaboration
-  date: 2019-01-14
+  date: 2020-01-14
   start: 5:30 PM
   end: 7:30 PM
   location: Coventure
@@ -282,11 +282,11 @@
 
 - title: All About Typescript by Ryan Grow
   type: Speaker
-  date: 2019-03-10
+  date: 2020-03-10
   start: 5:30 PM
   end: 7:30 PM
   location: Coventure
   locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
   image: images/event-headers/team-work.jpg
   url: https://www.facebook.com/events/643309303094206/
-  description: Learn all about what it is and why it's useful. 
+  description: Learn all about what it is and why it's useful.
