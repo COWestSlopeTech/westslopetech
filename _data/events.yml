@@ -136,3 +136,159 @@
   image: images/event-headers/microphone.jpg
   url: https://www.facebook.com/events/2143472229060200/
   description: To celebrate the end of the year, and a lot of successes, we're hosting an end of the year party combined with a community app contest. This will be a fun way to celebrate while turning some of your ideas into reality with a group of fellow supportive Technologists. You don't have to participate in the App Contest to celebrate with us but we do encourage you to come to the pitch night to support ideas and see if you end up staying to help a team. You do NOT need to know how to write code to be on a team. Diversity of skills are often important for success.
+
+- title: Intro to programming with Python
+  type: Education
+  date: 2019-01-08
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/374308519794381/
+  description: Intro to programming with Python
+  
+- title: Intro to programming with Python Part 2
+  type: Education
+  date: 2019-02-12
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/403112123588641/
+  description: Intro to programming with Python Part 2
+  
+- title: Intro to programming with Python Part 3
+  type: Education
+  date: 2019-03-12
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/1655770524525484/
+  description: Intro to programming with Python Part 3
+
+- title: The Best Programming Languages and Which One You Should Use
+  type: Speaker
+  date: 2019-04-12
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/1655770524525484/
+  description: The Best Programming Languages and Which One You Should Use
+
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-05-14
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/285105732422438/
+  description: Building an opensource app for the community by the community.
+  
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-06-11
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/981417125582737/
+  description: Building an opensource app for the community by the community.
+
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-07-09
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/1358587027623273/
+  description: Building an opensource app for the community by the community.
+  
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-08-13
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/367706397253370/
+  description: Building an opensource app for the community by the community.
+  
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-09-10
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/819776851772195/
+  description: Building an opensource app for the community by the community.
+  
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-08-08
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/657773358044598/
+  description: Building an opensource app for the community by the community.
+  
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-11-12
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/410479339891319/
+  description: Building an opensource app for the community by the community.
+  
+- title: Holida Party!
+  type: Project Collaboration
+  date: 2019-05-14
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/495574464499870/
+  description: Building an opensource app for the community by the community.
+  
+- title: Project Kronos
+  type: Project Collaboration
+  date: 2019-01-14
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/581707015740264/
+  description: Building an opensource app for the community by the community.
+  
+- title: All About Typescript by Ryan Grow
+  type: Speaker
+  date: 2019-03-10
+  start: 5:30 PM
+  end: 7:30 PM
+  location: Coventure
+  locationLink: https://goo.gl/maps/L2cG9R4B9Kq7AE279
+  image: images/event-headers/team-work.jpg
+  url: https://www.facebook.com/events/643309303094206/
+  description: Learn all about what it is and why it's useful. 
+  
+  
