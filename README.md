@@ -1,10 +1,10 @@
 ## Synopsis
 
-This is the Jekyll based source code and assets for the Roaring Fork Technologist's group website.
+This is the Jekyll based source code and assets for the West Slope Technologist's group website.
 
 ## Motivation
 
-This project serves as an independent ( outside of Facebook, for example ) platform for supporting the Roaring Fork Technologist's mission, including the promotion and nurturing of the technological community and economy in the Roaring Fork Valley in Colorado.
+This project serves as an independent ( outside of Facebook, for example ) platform for supporting the West Slope Technologist's mission, including the promotion and nurturing of the technological community and economy in the West Slope of Colorado.
 
 ## Installation
 
@@ -55,9 +55,9 @@ The github issuetracker for this project is current. Please check there for info
 For now we are not going to have formal releases for the site. We will build toward a version 1 and from that point can consider whether we want to have a formal release strategy or just push changes as needed.
 
 ### Development Contribution Strategy
-* Each developer must create a new branch in which they will do their changes. 
+* Each developer must create a new branch in which they will do their changes.
 * To commit your work perform a pull request against the master branch.
-When the pull request is reviewed and accepted it will be qued up and folded into the gh-pages branch for release. 
+When the pull request is reviewed and accepted it will be qued up and folded into the gh-pages branch for release.
 
 ## License
 MIT- See LICENCE file in the repository.

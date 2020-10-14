@@ -1,12 +1,12 @@
 # Site settings
-title: Roaring Fork Technologists
+title: West Slope Technologists
 email: roaringforktech@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Roaring Fork Technologists are committed to fostering technological solutions within the community for the purpose of technical business education, economic stimulus, and securing a lifestyle we celebrate for years to come.
+  The West Slope Technologists are committed to fostering technological solutions within the community for the purpose of technical business education, economic stimulus, and securing a lifestyle we celebrate for years to come.
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: roaringforktech
-github_username:  roaringforktech
+twitter_username: WestSlopeCOTech
+github_username:  WestSlopeCOTech
 
 # Build settings
 markdown: kramdown
